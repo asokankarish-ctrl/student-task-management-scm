@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f3f7f4;
+    color: #24382b;
+}
+
+label {
+    display: block;
+    margin-top: 15px;
+}
+
+input {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 10px;
+}
+
+button {
+    background-color: #28613d;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #194629;
+}
+
+.table-container {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th, td {
+    border: 1px solid #bdcbbf;
+    padding: 12px;
+    text-align: left;
+    overflow-wrap: anywhere;
+}
+
+th {
+    background-color: #deeadf;
+}
+
+#message {
+    min-height: 20px;
+    font-weight: bold;
+}
