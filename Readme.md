@@ -45,3 +45,7 @@ Version: 0.1.0
 
 ## Testing
 See tests/manual-tests.md. Automated browser checks are in tests/browser-tests.cjs and require Node.js, Playwright, and its Chromium browser.
+## Current Development Status 
+
+Initial version completed. 
+git diffVersion: 0.1.0 
