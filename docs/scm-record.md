@@ -10,3 +10,11 @@
 | CI-06 | .gitignore         | Configuration File | Developer |      v0.1      |
 | CI-07 | tests/ test cases  | Test Artifact      |   Tester  |      v0.1      |
 
+
+Baseline: 
+Baseline ID:
+ BL-01 Version:
+  v0.1.0 Date:
+   Included Changes:
+    CR-01 Status: Approved 
+
